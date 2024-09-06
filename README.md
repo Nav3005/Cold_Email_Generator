@@ -28,3 +28,29 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/<username>/<repo>.git
    cd <repo>
+
+2. **Create a virtual environment** (optional but recommended):
+   ```bash
+   python -m venv venv
+
+3. **Activate the virtual environment**:
+   - On macOS/Linux:
+     ```bash
+     source venv/bin/activate
+     ```
+   - On Windows:
+     ```bash
+     venv\Scripts\activate
+     ```
+4. **Install the dependencies**:
+   ```bash
+   pip install -r requirements.txt
+
+5. **Set up the Groq API key**:
+   - Obtain your API key from [Groq](https://groq.com) and set it as an environment variable:
+     ```bash
+     export GROQ_API_KEY=your_api_key
+     ```
+6. **Run the Streamlit app**:
+   ```bash
+   streamlit run app.py
