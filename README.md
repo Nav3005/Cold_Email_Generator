@@ -43,15 +43,12 @@ To get started with this project, follow these steps:
      ```bash
      venv\Scripts\activate
      ```
-4. **Install the dependencies**:
-   ```bash
-   pip install -r requirements.txt
-
-5. **Set up the Groq API key**:
+     
+4. **Set up the Groq API key**:
    - Obtain your API key from [Groq](https://groq.com) and set it as an environment variable:
      ```bash
      export GROQ_API_KEY=your_api_key
      ```
-6. **Run the Streamlit app**:
+5. **Run the Streamlit app**:
    ```bash
    streamlit run app.py
