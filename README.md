@@ -45,7 +45,7 @@ To get started with this project, follow these steps:
      ```
      
 4. **Set up the Groq API key**:
-   - Obtain your API key from [Groq](https://groq.com) and set it as an environment variable:
+   - Obtain your API key from [Groq]([(https://console.groq.com/docs/quickstart)]) and set it as an environment variable:
      ```bash
      export GROQ_API_KEY=your_api_key
      ```
