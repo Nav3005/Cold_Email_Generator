@@ -19,7 +19,7 @@ The Cold Email Generator leverages AI to create personalized cold emails with ea
 - **Streamlit**: Web application framework for creating a simple and interactive user interface.
 
 ## Architecture Model
-![Alt text](/Output/op.png)
+![Alt text](op.png)
 ## Installation
 To get started with this project, follow these steps:
 
