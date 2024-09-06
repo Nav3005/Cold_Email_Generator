@@ -52,3 +52,9 @@ To get started with this project, follow these steps:
 5. **Run the Streamlit app**:
    ```bash
    streamlit run app.py
+
+## References:
+- [ChatGroq](https://python.langchain.com/v0.2/docs/integrations/chat/groq/)
+- [Vector Database](https://www.qwak.com/post/utilizing-llms-with-embedding-stores#:~:text=Vector%20embeddings%20are%20essential%20in,in%20a%20high%2Ddimensional%20space.)
+- [LLM Embedding](https://pub.aimind.so/llm-embeddings-explained-simply-f7536d3d0e4b)
+- [Python Environment](https://pypi.org/project/python-dotenv/)
