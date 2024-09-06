@@ -15,6 +15,7 @@ The Cold Email Generator leverages AI to create personalized cold emails with ea
 - **Llama 3.1 (LLM)**: Large language model for generating human-like email content.
 - **Langchain**: A framework for developing applications powered by language models.
 - **Groq API**: Integrates Groq's powerful API to enhance language model capabilities.
+- **ChromaDB**: Store vector embeddings for fast retrieval.
 - **Jupyter Notebook**: Used for prototyping and experimenting with different AI models.
 - **Streamlit**: Web application framework for creating a simple and interactive user interface.
 
