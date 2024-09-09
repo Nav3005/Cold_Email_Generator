@@ -1,9 +1,9 @@
 # Cold Email Generator
-Welcome to the Cold Email Generator project! This application helps automate the process of generating cold emails using advanced language models, providing personalized content that resonates with potential clients.
-![alt text](op.png)
 
 ## Overview
 The Cold Email Generator leverages LLM to create personalized cold emails with ease. By integrating Llama 3.1, Langchain, Groq and other powerful tools, this project offers a streamlined interface for generating customized emails based on user input and predefined templates.
+
+![alt text](op.png)
 
 ## Features
 - **Automated Email Generation**: Generate cold emails using AI.
